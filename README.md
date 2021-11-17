@@ -12,7 +12,7 @@ Contém todas as atividades desenvolvidas por __[mim](www.linkedin.com/in/rafael
 - [x] 1.3 - Unix & Bash - Parte 1
 - [x] 1.4 - Unix & Bash - Parte 2
 
-##### Bloco 2: [Git, GitHub e Internet]()
+##### Bloco 2: [Git, GitHub e Internet](https://github.com/Terexes/trybe-exercises/tree/master/01-Fundamentos/bloco-02-git-github-e-internet)
 - [x] 2.1 - Git & GitHub  - O que é e para que serve
 - [ ] 2.2 - Git & GitHub - Entendendo os comandos
 - [ ] 2.3 - Internet - Entendendo como ela funciona
