@@ -6,7 +6,7 @@ Contém todas as atividades desenvolvidas por __[mim](www.linkedin.com/in/rafael
 
 ## Fundamentos do Desenvolvimento Web :heavy_check_mark:
 
-##### Bloco 1: [Unix, Bash e Shell Script]
+##### Bloco 1: [Unix, Bash e Shell Script](https://github.com/Terexes/trybe-exercises/tree/master/01-Fundamentos/bloco-01-unix-bash-e-shell-script)
 - [x] 1.3 - Fundamentos do Desenvolvimento Web
 - [x] 1.3 - Introdução - Unix & Shell
 - [x] 1.3 - Unix & Bash - Parte 1
