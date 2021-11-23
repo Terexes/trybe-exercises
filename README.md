@@ -19,8 +19,8 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 
 ##### Bloco 3: [Introdução à HTML e CSS](https://github.com/Terexes/trybe-exercises/tree/master/01-Fundamentos/bloco-03-introducao-a-html-e-css)
 - [x] 3.1 - Introdução - HTML & CSS
-- [ ] 3.1 - HTML & CSS - Estruturas de página
-- [ ] 3.2 - HTML & CSS - Primeiros passos em CSS
-- [ ] 3.3 - HTML & CSS - Seletores e posicionamento
+- [x] 3.1 - HTML & CSS - Estruturas de página
+- [x] 3.2 - HTML & CSS - Primeiros passos em CSS
+- [x] 3.3 - HTML & CSS - Seletores e posicionamento
 - [ ] 3.4 - HTML Semântico
 - [ ] 3.5 - Projeto - Lessons Learned
