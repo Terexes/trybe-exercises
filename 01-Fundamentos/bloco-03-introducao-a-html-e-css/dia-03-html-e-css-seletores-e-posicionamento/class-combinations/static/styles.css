@@ -1,0 +1,68 @@
+ol li {
+  background-color: yellow;
+}
+
+ol li:nth-child(even) {
+  background-color: green;
+}
+
+ol li:nth-child(odd) {
+  text-transform: uppercase;
+}
+
+h1,
+h3 {
+  color: red;
+}
+
+h1 em,
+h3 em {
+  font-size: 40px;
+  border: 1px solid black;
+}
+
+li {
+  font-size: 20px;
+}
+
+li em {
+  font-weight: 600;
+}
+/* Selecionar os 3 primeiros elementos do primeiro UL da página HTML */
+ul:nth-of-type(1) li:nth-child(-n + 3) {
+  color: blue;
+}
+
+/* ul:nth-of-type(1) li::content {
+  background-color: purple;
+} */
+
+ul:nth-of-type(2) li a:hover {
+  text-decoration: none;
+  color: black;
+}
+
+ul:nth-of-type(2) li a[href*="stackoverflow"]:hover {
+  text-decoration: none;
+  color: orange;
+}
+
+ul:nth-of-type(2) li a[href*="w3schools"]:hover {
+  text-decoration: none;
+  color: green;
+}
+
+ul:nth-of-type(2) li a[href*="mozilla"]:hover {
+  text-decoration: none;
+  color: black;
+}
+
+ul:nth-of-type(2) li a[href*="devdocs"]:hover {
+  text-decoration: none;
+  color: yellow;
+}
+
+ul:nth-of-type(2) li a[href*="trybe"]:hover {
+  text-decoration: none;
+  color: lightgreen;
+}
