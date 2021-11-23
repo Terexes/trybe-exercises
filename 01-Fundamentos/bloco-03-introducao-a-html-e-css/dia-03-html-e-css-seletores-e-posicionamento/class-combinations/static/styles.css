@@ -44,25 +44,30 @@ ul:nth-of-type(2) li a:hover {
 
 ul:nth-of-type(2) li a[href*="stackoverflow"]:hover {
   text-decoration: none;
+  font-weight: 700;
   color: orange;
 }
 
 ul:nth-of-type(2) li a[href*="w3schools"]:hover {
   text-decoration: none;
+  font-weight: 700;
   color: green;
 }
 
 ul:nth-of-type(2) li a[href*="mozilla"]:hover {
   text-decoration: none;
+  font-weight: 700;
   color: black;
 }
 
 ul:nth-of-type(2) li a[href*="devdocs"]:hover {
   text-decoration: none;
+  font-weight: 700;
   color: yellow;
 }
 
 ul:nth-of-type(2) li a[href*="trybe"]:hover {
   text-decoration: none;
+  font-weight: 700;
   color: lightgreen;
 }
