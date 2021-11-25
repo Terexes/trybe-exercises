@@ -1,0 +1,135 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #dddddd;
+}
+
+section {
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+}
+img {
+  margin: 2%;
+  padding-right: 5%;
+}
+
+header {
+  background-image: url("../img/hero-img");
+  background-size: cover;
+  width: 100%vh;
+  height: 500px;
+}
+
+a,
+a:link,
+a:visited {
+  color: blue;
+  font-size: 108%;
+}
+
+a:hover {
+  color: #902923;
+}
+
+p {
+  font-size: 108%;
+  line-height: 1.5;
+}
+
+.hero-text {
+  padding-top: 15%;
+  margin-left: 3%;
+  color: #fff;
+  font-size: 200%;
+}
+
+.hero-nav {
+  list-style: none;
+  margin-top: -17%;
+}
+
+.hero-nav li {
+  display: inline;
+  float: right;
+  margin-right: 2%;
+}
+
+.hero-nav li a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 100%;
+}
+
+.hero-nav li a:hover {
+  font-size: 130%;
+}
+
+main {
+  margin-top: 5%;
+  width: 100%;
+}
+
+article {
+  width: 80%;
+}
+
+.main-heading {
+  font-size: 250%;
+}
+
+.main-subheading {
+  font-size: 175%;
+  margin-bottom: 2%;
+}
+
+.information-table {
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 125%;
+}
+
+.information-table tr td {
+  margin: 1% 2%;
+  padding: 2%;
+}
+
+.sub-headings {
+  font-size: 150%;
+  margin-top: 1%;
+  margin-bottom: 2%;
+}
+
+.eyes-img {
+  width: 500px;
+}
+
+footer {
+  width: 100%;
+  background-color: #202020;
+}
+
+footer h3 {
+  color: #fff;
+}
+
+.footer li {
+  margin-top: 1%;
+  padding: 1%;
+}
+.footer-nav li a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 110%;
+}
+
+.footer-nav li a:hover {
+  font-size: 130%;
+}
