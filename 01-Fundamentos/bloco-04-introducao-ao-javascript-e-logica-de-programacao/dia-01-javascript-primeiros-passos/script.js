@@ -219,5 +219,3 @@ function calcSalarioLiquido(salarioBruto) {
 
   return (salarioBase - aliquotaIR).toFixed(2);
 }
-
-console.log(calcSalarioLiquido(3200));
