@@ -22,7 +22,7 @@ img {
 }
 
 header {
-  background-image: url("../img/hero-img");
+  background-image: url('../img/hero-img');
   background-size: cover;
   width: 100%vh;
   height: 500px;
@@ -94,6 +94,7 @@ article {
   margin-left: auto;
   margin-right: auto;
   font-size: 125%;
+  border: 1px solid black;
 }
 
 .information-table tr td {
