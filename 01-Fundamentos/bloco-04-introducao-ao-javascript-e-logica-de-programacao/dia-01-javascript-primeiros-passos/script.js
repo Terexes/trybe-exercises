@@ -189,7 +189,9 @@ function calcSalarioLiquido(salarioBruto) {
   let aliquotaInss = 0;
   let aliquotaIR = 0;
   let salarioBase = 0;
+
   //INSS:
+
   if ((salarioBruto > 5189, 82)) {
     aliquotaInss = 570.88;
   } else if (salarioBruto <= 5189.82 && salarioBruto >= 2594.93) {
@@ -200,7 +202,9 @@ function calcSalarioLiquido(salarioBruto) {
     aliquotaInss = salarioBruto * 0.08;
   }
   salarioBase = salarioBruto - aliquotaInss;
+
   //IR
+
   if (salarioBase > 4664.68) {
     aliquotaIR = salarioBase * 0.275 - 869.36;
   } else if (salarioBase <= 4664.68 && salarioBase >= 3751.06) {
