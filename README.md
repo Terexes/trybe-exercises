@@ -22,5 +22,26 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 3.1 - HTML & CSS - Estruturas de página
 - [x] 3.2 - HTML & CSS - Primeiros passos em CSS
 - [x] 3.3 - HTML & CSS - Seletores e posicionamento
-- [ ] 3.4 - HTML Semântico
-- [ ] 3.5 - Projeto - Lessons Learned
+- [x] 3.4 - HTML Semântico
+- [x] 3.5 - Projeto - Lessons Learned
+
+##### Bloco 4: [Introdução à JavaScript e Lógica de Programação](https://github.com/Terexes/trybe-exercises/tree/master/01-Fundamentos/bloco-04-introducao-ao-javascript-e-logica-de-programacao)
+- [x] 4.1 - Introdução - JavaScript
+- [x] 4.1 - JavaScript - Primeiros passos
+- [x] 4.2 - JavaScript - Array e loop For
+- [x] 4.3 - JavaScript - Lógica de Programação e Algoritmos
+- [x] 4.4 - JavaScript - Objetos e funções
+- [x] 4.5 - Projeto - Playground Functions
+
+##### Bloco 5: [JavaScript: DOM, Eventos e Web Storage](https://github.com/Terexes/trybe-exercises/tree/master/01-Fundamentos/bloco-05-javascript-dom-eventos-e-web-storage)
+- [x] 5.1 - JavaScript - DOM e seletores
+- [x] 5.2 - JavaScript - Trabalhando com elementos
+- [x] 5.3 - JavaScript - Eventos
+- [x] 5.4 - JavaScript - Web Storage
+- [x] 5.5 - Fundamentos - JavaScript - Projetos
+- [x] 5.5 - Projeto - Arte com Pixels
+- [x] 5.6 - Projeto - Lista de tarefas
+- [x] 5.7 - (Bônus) Projeto - Meme Generator
+- [x] 5.7 - (Bônus) Projeto - Adivinhe a Cor
+- [x] 5.7 - (Bônus) Projeto - Carta Misteriosa
+
