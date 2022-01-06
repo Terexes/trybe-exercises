@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Form</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <main>
+    <form>
+      <fieldset class="main-info">
+        <label for="input-nome">Nome completo:</label>
+        <input id="input-nome" type="text" placeholder="Ex: João Silva" value="" maxlength="40" required />
+
+        <label for="input-email">E-mail:</label>
+        <input id="input-email" type="email" placeholder="email@email.com" value="" maxlength="50" required />
+
+        <label for="input-cpf">CPF:</label>
+        <input id="input-cpf" type="text" placeholder="12345678901" value="" maxlength="11" required />
+
+        <label for="input-endereco">Endereço</label>
+        <input id="input-endereco" type="text" placeholder="Ex: Rua da Paz, 14" value="" maxlength="200" required />
+
+        <label for="input-cidade">Cidade:</label>
+        <input id="input-cidade" type="text" placeholder="Ex: São Paulo" value="" maxlength="28" required />
+
+        <label for="select-estado">Estado:</label>
+        <select id="select-estado" required />
+        <option value="" disabled selected>Selecione um estado</option>
+
+        <input id="casa" type="radio" value="casa" name="moradia" required />
+        <label for="casa">Casa</label>
+
+        <input id="apartamento" type="radio" value="apartamento" name="moradia" required />
+        <label for="apartamento">Apartamento</label>
+      </fieldset>
+
+      <fieldset class="complementary-info">
+
+        <label for="resumo-curriculo">Resumo currículo:</label>
+        <textarea id="resumo-curriculo" placeholder="Resuma seu currículo aqui" cols="30" rows="10" maxlength="1000"
+          required></textarea>
+
+        <label for="cargo-anterior">Cargo Anterior:</label>
+        <input id="cargo-anterior" type="text" placeholder="Ex: Operador de máquinas" maxlength="40" required />
+
+        <label for="descricao-cargo">Descrição:</label>
+        <textarea id="descricao-cargo" placeholder="Descreva as atividades realizadas no cargo anterior" cols="30"
+          rows="10" maxlength="500" required></textarea>
+
+        <label for="data-inicio">Data de início:</label>
+        <input id="data-inicio" type="text" placeholder="dd/mm/aaaa" required />
+      </fieldset>
+      <button type="submit" class="submit-button">Enviar</button>
+      <button type="button" class="clear-button">Limpar</button>
+    </form>
+  </main>
+
+  <script defer src="script.js"></script>
+</body>
+
+</html>

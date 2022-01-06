@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+main {
+  width: 100%;
+  margin-left: 10px;
+}
+
+fieldset {
+  border: none;
+}
+
+.main-info {
+  width: 25%;
+  display: block;
+}
+
+.complementary-info {
+  width: 25%;
+}
+
+.complementary-info label {
+  display: block;
+}
+
+input {
+  display: block;
+  margin-bottom: 10px;
+}
+
+#select-estado {
+  display: block;
+}
+
+#casa,
+#apartamento {
+  display: inline-block;
+  margin-top: 10px;
+}
+
+#apartamento {
+  margin-left: 5px;
+}
+
+.error {
+  border: 2px solid tomato;
+}
